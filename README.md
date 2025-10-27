@@ -1,1 +1,1 @@
-# Lead Tracker Extension that allows you to save links of potential candidates for jobs
+# Link Tracker Extension that allows you to save links of potential candidates for jobs or other uses
